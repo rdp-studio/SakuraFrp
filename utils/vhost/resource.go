@@ -67,7 +67,7 @@ const (
 				<li>尝试与该网站的所有者取得联系。</li>
 				<li>刷新您的 DNS 缓存或在其他网络环境访问。</li>
 			</ul>
-			<p align="right"><em>Powered by Sakura Panel | Based on Frp</em></p>
+			<p align="right"><em>Powered by <a href="https://frp.rdpstudio.top">FutureFrp</a> | Based on Frp</em></p>
 		</div>
 	</body>
 </html>
